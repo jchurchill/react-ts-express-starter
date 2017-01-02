@@ -1,0 +1,1 @@
+npm run build-client && ./node_modules/.bin/webpack --config webpack/server.js --progress --colors

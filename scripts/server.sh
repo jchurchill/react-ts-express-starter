@@ -1,0 +1,1 @@
+./node_modules/.bin/webpack --config webpack/server.js  --progress --colors && node build/server/server.bundle.js
